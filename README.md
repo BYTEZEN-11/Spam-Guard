@@ -363,3 +363,5 @@ MIT License
 <!-- Build step 23: Create model training component skeleton -->
 
 <!-- Build step 24: Implement Logistic Regression model training routine -->
+
+<!-- Build step 25: Add Naive Bayes classifier training logic -->
