@@ -411,3 +411,5 @@ MIT License
 <!-- Build step 47: Include progress bar during batch email prediction -->
 
 <!-- Build step 48: Add export option for predictions to CSV file -->
+
+<!-- Build step 49: Enhance logger formatting with timestamps and levels -->
