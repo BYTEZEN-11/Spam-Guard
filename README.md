@@ -507,3 +507,5 @@ MIT License
 <!-- Build step 95: Update model version folder naming convention -->
 
 <!-- Build step 96: Implement input sanitization before vectorization step -->
+
+<!-- Build step 97: Enhance error handling for empty text payloads -->
