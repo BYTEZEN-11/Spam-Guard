@@ -455,3 +455,5 @@ MIT License
 <!-- Build step 69: Implement model artifact serialization checks -->
 
 <!-- Build step 70: Support custom model artifact loading path setting -->
+
+<!-- Build step 71: Fix potential memory leak during MBOX batch iteration -->
