@@ -477,3 +477,5 @@ MIT License
 <!-- Build step 80: Enhance Streamlit theme styling and icon display -->
 
 <!-- Build step 81: Add dataset balance statistics printer in ingestion -->
+
+<!-- Build step 82: Support configurable max features in vectorizer -->
