@@ -377,3 +377,5 @@ MIT License
 <!-- Build step 30: Add evaluation metrics calculation for trained models -->
 
 <!-- Build step 31: Include confusion matrix export in model evaluation -->
+
+<!-- Build step 32: Add classification report generator helper -->
