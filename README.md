@@ -439,3 +439,5 @@ MIT License
 <!-- Build step 61: Update requirements file with pinned dependency versions -->
 
 <!-- Build step 62: Enhance README with usage instructions for batch processing -->
+
+<!-- Build step 63: Add section on model re-training to README -->
