@@ -369,3 +369,5 @@ MIT License
 <!-- Build step 26: Support Support Vector Machine classifier training -->
 
 <!-- Build step 27: Implement Random Forest classifier training routine -->
+
+<!-- Build step 28: Add K-Nearest Neighbors classifier support -->
