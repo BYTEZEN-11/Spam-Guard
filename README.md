@@ -385,3 +385,5 @@ MIT License
 <!-- Build step 34: Implement single email prediction interface -->
 
 <!-- Build step 35: Add batch email prediction handler for dataframe input -->
+
+<!-- Build step 36: Support MBOX file format parsing in prediction pipeline -->
