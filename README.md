@@ -487,3 +487,5 @@ MIT License
 <!-- Build step 85: Refactor prediction pipeline output dictionary schema -->
 
 <!-- Build step 86: Add retry logic for file file-system operations -->
+
+<!-- Build step 87: Update gitignore to exclude local log outputs -->
