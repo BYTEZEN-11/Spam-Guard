@@ -479,3 +479,5 @@ MIT License
 <!-- Build step 81: Add dataset balance statistics printer in ingestion -->
 
 <!-- Build step 82: Support configurable max features in vectorizer -->
+
+<!-- Build step 83: Implement graceful fallback when model files missing -->
