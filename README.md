@@ -441,3 +441,5 @@ MIT License
 <!-- Build step 62: Enhance README with usage instructions for batch processing -->
 
 <!-- Build step 63: Add section on model re-training to README -->
+
+<!-- Build step 64: Update pyproject metadata with author and version -->
