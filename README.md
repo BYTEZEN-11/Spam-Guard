@@ -389,3 +389,5 @@ MIT License
 <!-- Build step 36: Support MBOX file format parsing in prediction pipeline -->
 
 <!-- Build step 37: Implement stream reading for large MBOX files -->
+
+<!-- Build step 38: Add email header extraction routines for MBOX parser -->
