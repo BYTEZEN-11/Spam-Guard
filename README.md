@@ -433,3 +433,5 @@ MIT License
 <!-- Build step 58: Include pre-trained vectorizer artifact in data models -->
 
 <!-- Build step 59: Add trained model pickle artifact for version 1 -->
+
+<!-- Build step 60: Create log storage directory configuration structure -->
