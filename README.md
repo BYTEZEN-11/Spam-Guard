@@ -395,3 +395,5 @@ MIT License
 <!-- Build step 39: Create Streamlit web application template -->
 
 <!-- Build step 40: Add single email classification UI tab in app -->
+
+<!-- Build step 41: Add batch MBOX file upload widget in Streamlit UI -->
