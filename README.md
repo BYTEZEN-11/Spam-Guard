@@ -397,3 +397,5 @@ MIT License
 <!-- Build step 40: Add single email classification UI tab in app -->
 
 <!-- Build step 41: Add batch MBOX file upload widget in Streamlit UI -->
+
+<!-- Build step 42: Implement confidence score display in dashboard -->
