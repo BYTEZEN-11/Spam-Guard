@@ -465,3 +465,5 @@ MIT License
 <!-- Build step 74: Standardize exception logging format across pipelines -->
 
 <!-- Build step 75: Implement environment variable override for paths -->
+
+<!-- Build step 76: Refactor dataset loading exception handling -->
