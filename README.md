@@ -413,3 +413,5 @@ MIT License
 <!-- Build step 48: Add export option for predictions to CSV file -->
 
 <!-- Build step 49: Enhance logger formatting with timestamps and levels -->
+
+<!-- Build step 50: Add file path validator in configuration script -->
