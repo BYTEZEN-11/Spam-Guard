@@ -499,3 +499,5 @@ MIT License
 <!-- Build step 91: Optimize batch prediction speed using vectorized operations -->
 
 <!-- Build step 92: Clean up temporary directory references post batch run -->
+
+<!-- Build step 93: Add comprehensive comment header to entrypoint app -->
