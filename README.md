@@ -393,3 +393,5 @@ MIT License
 <!-- Build step 38: Add email header extraction routines for MBOX parser -->
 
 <!-- Build step 39: Create Streamlit web application template -->
+
+<!-- Build step 40: Add single email classification UI tab in app -->
