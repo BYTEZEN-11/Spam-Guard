@@ -407,3 +407,5 @@ MIT License
 <!-- Build step 45: Implement cached pipeline loader for faster app startup -->
 
 <!-- Build step 46: Add error handling for unreadable MBOX attachments -->
+
+<!-- Build step 47: Include progress bar during batch email prediction -->
