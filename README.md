@@ -387,3 +387,5 @@ MIT License
 <!-- Build step 35: Add batch email prediction handler for dataframe input -->
 
 <!-- Build step 36: Support MBOX file format parsing in prediction pipeline -->
+
+<!-- Build step 37: Implement stream reading for large MBOX files -->
