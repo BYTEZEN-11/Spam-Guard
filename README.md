@@ -415,3 +415,5 @@ MIT License
 <!-- Build step 49: Enhance logger formatting with timestamps and levels -->
 
 <!-- Build step 50: Add file path validator in configuration script -->
+
+<!-- Build step 51: Improve error messaging for invalid text input -->
