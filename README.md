@@ -481,3 +481,5 @@ MIT License
 <!-- Build step 82: Support configurable max features in vectorizer -->
 
 <!-- Build step 83: Implement graceful fallback when model files missing -->
+
+<!-- Build step 84: Optimize memory footprint during large text vectorization -->
