@@ -443,3 +443,5 @@ MIT License
 <!-- Build step 63: Add section on model re-training to README -->
 
 <!-- Build step 64: Update pyproject metadata with author and version -->
+
+<!-- Build step 65: Refactor logger import statement in app module -->
