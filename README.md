@@ -399,3 +399,5 @@ MIT License
 <!-- Build step 41: Add batch MBOX file upload widget in Streamlit UI -->
 
 <!-- Build step 42: Implement confidence score display in dashboard -->
+
+<!-- Build step 43: Add warning modal for oversized file uploads -->
