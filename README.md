@@ -373,3 +373,5 @@ MIT License
 <!-- Build step 28: Add K-Nearest Neighbors classifier support -->
 
 <!-- Build step 29: Implement Decision Tree classifier training function -->
+
+<!-- Build step 30: Add evaluation metrics calculation for trained models -->
